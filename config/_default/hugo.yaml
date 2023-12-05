@@ -1,0 +1,14 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://chrede88.github.io'
+title: 'Yang-Hsi Su'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'

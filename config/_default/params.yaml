@@ -1,0 +1,31 @@
+############################
+## Author
+############################
+
+author:
+  name: "Yang-Hsi Su"
+  image: profile_dvs.jpg
+  greeting: "Still a PhD student... :calendar:"
+  # icon: ":custard:"
+
+############################
+## Links
+############################
+
+links:
+  # - email: mailto:devilsu@umich.edu
+  - linkedin: https://www.linkedin.com/in/yang-hsi-su-698a7916b/
+  - github: https://github.com/DevilSu
+  - facebook: https://www.facebook.com/yanghsi.su
+  - instagram: https://www.instagram.com/dvs_work/
+  
+ 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+images:
+  - thumbnail.jpeg

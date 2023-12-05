@@ -1,0 +1,13 @@
+main:
+- name: Home
+  url: /
+  weight: 10
+- name: About
+  url: /about/
+  weight: 20
+- name: Projects
+  url: /projects/
+  weight: 30
+- name: Cool Stuff
+  url: /cool_stuff/
+  weight: 40
