@@ -5,5 +5,4 @@
 ############################
 
 imports:
-  # - path: qubt
   - path: dvs_qubt_mod
