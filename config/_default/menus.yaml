@@ -5,8 +5,8 @@ main:
 - name: About
   url: /about/
   weight: 20
-- name: Projects
-  url: /projects/
+- name: Research
+  url: /research/
   weight: 30
 - name: Cool Stuff
   url: /cool_stuff/

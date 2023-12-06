@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cool Stuff on Yang-Hsi Su</title>
-    <link>https://chrede88.github.io/cool_stuff/</link>
+    <link>https://devilsu.github.io/cool_stuff/</link>
     <description>Recent content in Cool Stuff on Yang-Hsi Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://chrede88.github.io/cool_stuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devilsu.github.io/cool_stuff/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

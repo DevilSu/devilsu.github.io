@@ -33,3 +33,14 @@ justify align text:
 - in theme, change assets/css/compiled/main.css
     - look for body{}
         - add the line: text-align: justify;
+
+Can make changes in submodule, just cd into the submodule and do the normal git add commit push in there.
+    - do it in themes/dvs_qubt_mod
+
+Create custom shortcodes: https://gohugo.io/templates/shortcode-templates/
+
+if add\delete tabs, like about, Home, ...
+- modify config/_default/menus.yaml
+
+change profile photo:
+- in config/_default/params.yaml

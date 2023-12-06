@@ -9,8 +9,8 @@ bio: true
 icon: ":mag:"
 ---
 
-I'm a fourth year (yeah it's taking a while) Ph.D. student at University of Michigan in Electrical and Computer Engineering, advised by Prof. [Alanson Sample](http://www.alansonsample.com/).
-I am a member of the [Interactive Sensing and Computing Lab](https://theisclab.com) along with [Yasha Iravantchi](https://yasha.xyz/), [Tom Krolikowski](https://www.tomkrolikowski.dev/), [Kunpeng Huang](https://kunpeng.dev/), [Cameron Haire](https://callmeron7.github.io/), and [Yaxuan Li](https://scholar.google.com/citations?hl=en&user=zmCbWwsAAAAJ).
+I'm a fourth year (yeah it's taking a while) Ph.D. student at University of Michigan in Electrical and Computer Engineering, advised by Prof. [Alanson Sample](http://www.alansonsample.com/). I am a member of the [Interactive Sensing and Computing Lab](https://theisclab.com) along with \
+[Yasha Iravantchi](https://yasha.xyz/), [Tom Krolikowski](https://www.tomkrolikowski.dev/), [Kunpeng Huang](https://kunpeng.dev/), [Cameron Haire](https://callmeron7.github.io/), and [Yaxuan Li](https://scholar.google.com/citations?hl=en&user=zmCbWwsAAAAJ). \
 (Shout out to former labmates [Amani Alkayyali](https://scholar.google.com/citations?user=QwvwxL0AAAAJ&hl=en) and [Sumukh Marathe](https://in.linkedin.com/in/sumukh-marathe/) as well!)
 
 My research mainly focuses on RF sensing for indoor localization and/or human activity recognition.\

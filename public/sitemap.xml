@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chrede88.github.io/projects/</loc>
+    <loc>https://devilsu.github.io/research/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://devilsu.github.io/research/bleaoa/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://devilsu.github.io/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://devilsu.github.io/research/tomoid/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://chrede88.github.io/projects/tomoid/</loc>
-    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+    <loc>https://devilsu.github.io/about/</loc>
   </url><url>
-    <loc>https://chrede88.github.io/</loc>
-    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://chrede88.github.io/about/</loc>
-  </url><url>
-    <loc>https://chrede88.github.io/cool_stuff/</loc>
+    <loc>https://devilsu.github.io/cool_stuff/</loc>
   </url>
 </urlset>
