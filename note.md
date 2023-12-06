@@ -21,6 +21,13 @@ link: https://medium.com/@magstherdev/github-pages-hugo-86ae6bcbadd
     - git push origin main
     - Do the settings thing: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
+Can make changes in submodule, just cd into the submodule and do the normal git add commit push in there.
+    - do it in themes/dvs_qubt_mod
+
+!!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!
+Have to git push in submodule first, otherwise the main git repo cant find the modified shit in submodule
+and will fail to compile on github repo...
+
 Other useful links:
 https://gohugo.io/quick-reference/emojis/
 
@@ -34,8 +41,7 @@ justify align text:
     - look for body{}
         - add the line: text-align: justify;
 
-Can make changes in submodule, just cd into the submodule and do the normal git add commit push in there.
-    - do it in themes/dvs_qubt_mod
+
 
 Create custom shortcodes: https://gohugo.io/templates/shortcode-templates/
 
