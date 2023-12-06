@@ -23,3 +23,13 @@ link: https://medium.com/@magstherdev/github-pages-hugo-86ae6bcbadd
 
 Other useful links:
 https://gohugo.io/quick-reference/emojis/
+
+
+to change theme:
+- change config.yaml
+- change config/_default/module.yaml
+
+justify align text:
+- in theme, change assets/css/compiled/main.css
+    - look for body{}
+        - add the line: text-align: justify;

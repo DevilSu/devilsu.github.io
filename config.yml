@@ -2,7 +2,8 @@ baseURL: https://devilsu.github.io/
 languageCode: en-us
 title: Yang-Hsi Su
 paginate: 5
-theme: qubt
+# theme: qubt
+theme: dvs_qubt_mod
 # theme: qubtTemplate
 # theme: hello-friend-ng
 
