@@ -17,7 +17,7 @@ caption: Image caption
 Was mainly there for the free food, but since all the hardware were free, so ...
 
 Specs:
-- Controll over bluetooth from PC
+- Control over bluetooth from PC
 - RPi3 B+ to drive the motors
 - Top speed ~1 tile/sec
 - Zip ties for extra safety
