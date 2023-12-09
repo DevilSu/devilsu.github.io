@@ -11,3 +11,6 @@ main:
 - name: Cool Stuff
   url: /cool_stuff/
   weight: 40
+- name: CV
+  url: /cv/
+  weight: 50

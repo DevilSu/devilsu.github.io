@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://devilsu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Curriculum Vitae</title>
+      <link>https://devilsu.github.io/cv/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://devilsu.github.io/cv/</guid>
+      <description>&lt;!DOCTYPE html&gt; Title Not sure how to make this full width without have text that is looooong enough, will fix it in the future &amp;#x1f92f;</description>
+    </item>
+    <item>
       <title>Single Packet, Single Channel, Switched Antenna Array for RF Localization</title>
       <link>https://devilsu.github.io/research/bleaoa/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
@@ -21,6 +28,13 @@
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       <guid>https://devilsu.github.io/research/tomoid/</guid>
       <description>INFOCOM 2023, MAY@NYC</description>
+    </item>
+    <item>
+      <title>Poor man RC car built from leftover parts</title>
+      <link>https://devilsu.github.io/cool_stuff/mhack_2019/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://devilsu.github.io/cool_stuff/mhack_2019/</guid>
+      <description>MHacks 2019</description>
     </item>
     <item>
       <title></title>
