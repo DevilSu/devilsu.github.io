@@ -22,4 +22,4 @@ Specs:
 - Top speed ~1 tile/sec
 - Zip ties for extra safety
 
-Also this was like 3 am at Duderstat basement.
+Also this was like 3 am at UMich duderstat basement.
