@@ -24,7 +24,7 @@ Ubicomp 2023, Oct @ Cancun
 INFOCOM 2023, May @ NYC, my first paper :tada:
 
 As a die-hard fan of Doraemon, my ultimate goal is to have a forth-dimension pocket!\
-I also like to work on stuff I think is cool, hopfully I will have time to put them into the "cool stuff" tab soon!
+I also like to work on stuff I think is cool, hopfully I will have time to put them into the "cool stuff" tab.
 
 
 ## Links:
