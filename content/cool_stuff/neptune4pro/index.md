@@ -10,6 +10,8 @@ caption: Image caption
 #   - Christian: author.jpeg
 ---
 
+I had my first print during the second year of my undergrad at NTHU. The department organized a trip to a startup workshop on campus. They had 3D printer, laser cutter, and all the maker stuff with them. I started designing phone stands in SketchUp
+
 {{< youtube id="MqtW3pjEDlk" title="LTT shortcircuit neptune 4 pro" autoplay="false" >}}
 Saw this video from ShortCircuit at July, 2023 during my intership at Mediatek, Dan really sold this 3D printer to me :star_struck:
 Dan at the end of the video: "God how is this so fxxking cheap I don't get it"

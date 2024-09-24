@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Yang-Hsi Su</title>
-    <link>https://devilsu.github.io/research/</link>
-    <description>Recent content in Projects on Yang-Hsi Su</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Research Projects on Yang-Hsi Su</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research Projects on Yang-Hsi Su</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://devilsu.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Sound Source Localization &amp; Classification</title>
+      <link>http://localhost:1313/research/isomic/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/isomic/</guid>
+      <description>Revise and submit to somewhere&amp;hellip;</description>
+    </item>
     <item>
       <title>Single Packet, Single Channel, Switched Antenna Array for RF Localization</title>
-      <link>https://devilsu.github.io/research/bleaoa/</link>
+      <link>http://localhost:1313/research/bleaoa/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://devilsu.github.io/research/bleaoa/</guid>
+      <guid>http://localhost:1313/research/bleaoa/</guid>
       <description>UBICOMP 2023, OCT@CANCUN</description>
     </item>
     <item>
       <title>TomoID: A Scalable Approach to Device Free Indoor Localization via RFID Tomography</title>
-      <link>https://devilsu.github.io/research/tomoid/</link>
+      <link>http://localhost:1313/research/tomoid/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://devilsu.github.io/research/tomoid/</guid>
+      <guid>http://localhost:1313/research/tomoid/</guid>
       <description>INFOCOM 2023, MAY@NYC</description>
+    </item>
+    <item>
+      <title>60 GHz SFCW Radar 3D Point Cloud Reconstruction</title>
+      <link>http://localhost:1313/research/60ghz_radar/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/60ghz_radar/</guid>
+      <description>Fun backburner project 2, 20 Tx by 20 Rx!</description>
+    </item>
+    <item>
+      <title>PoseID - Device-Free Pose Reconstruction with a wall of RFID tags</title>
+      <link>http://localhost:1313/research/poseid/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/poseid/</guid>
+      <description>Fun backburner project, too busy working on other fun stuff</description>
     </item>
   </channel>
 </rss>

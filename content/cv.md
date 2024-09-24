@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: Resume
 # subtitle: "Yang-Hsi Su, Chouchang (Jack) Yang, Euiseok Hwang, and Alanson P. Sample"
 # summary: "UBICOMP 2023, OCT@CANCUN"
 date: 2023-12-08
@@ -12,7 +12,8 @@ date: 2023-12-08
 
 
 
-{{< googlePdfReader "1jrBirHbSl2bHxPaHNjN4Bw8CO5qPbfXG" "Title" >}}
+<!-- {{< googlePdfReader "1jrBirHbSl2bHxPaHNjN4Bw8CO5qPbfXG" "Title" >}} -->
+{{< googlePdfReader "10ARhlMOyuxgYTp3iAZ4r_gIwwjMkeaPM" "Title" >}}
 \
 \
 \

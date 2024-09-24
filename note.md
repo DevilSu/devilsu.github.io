@@ -50,3 +50,8 @@ if add\delete tabs, like about, Home, ...
 
 change profile photo:
 - in config/_default/params.yaml
+
+weird navbar image "can't evaluate field Process in type interface {}"
+- uninstall hugo (was 0.092 on iscrf), reinstall (0.134), then fixed
+
+need to change .jpg to .jpeg (just change the file name) for it to show
