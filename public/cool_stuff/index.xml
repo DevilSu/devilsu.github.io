@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cool Stuff on Yang-Hsi Su</title>
-    <link>http://localhost:1313/cool_stuff/</link>
+    <link>https://devilsu.github.io/cool_stuff/</link>
     <description>Recent content in Cool Stuff on Yang-Hsi Su</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cool_stuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devilsu.github.io/cool_stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OREO!</title>
-      <link>http://localhost:1313/cool_stuff/oreo/</link>
+      <link>https://devilsu.github.io/cool_stuff/oreo/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/oreo/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/oreo/</guid>
       <description>but its 3D printed</description>
     </item>
     <item>
       <title>Bulit a Tarmo5</title>
-      <link>http://localhost:1313/cool_stuff/tarmo5/</link>
+      <link>https://devilsu.github.io/cool_stuff/tarmo5/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/tarmo5/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/tarmo5/</guid>
       <description>3D Printed RC Car from EngineeringNS</description>
     </item>
     <item>
       <title>Curta Mechanical Calculator</title>
-      <link>http://localhost:1313/cool_stuff/curta/</link>
+      <link>https://devilsu.github.io/cool_stuff/curta/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/curta/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/curta/</guid>
       <description>Will build this one day</description>
     </item>
     <item>
       <title>Bit Storage</title>
-      <link>http://localhost:1313/cool_stuff/ltt_bit_case/</link>
+      <link>https://devilsu.github.io/cool_stuff/ltt_bit_case/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/ltt_bit_case/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/ltt_bit_case/</guid>
       <description>Just a bit storage for my LTT screwdriver</description>
     </item>
     <item>
       <title>Anker Car Mount Mod</title>
-      <link>http://localhost:1313/cool_stuff/anker_car_mount/</link>
+      <link>https://devilsu.github.io/cool_stuff/anker_car_mount/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/anker_car_mount/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/anker_car_mount/</guid>
       <description>Free magsafe charger!</description>
     </item>
     <item>
       <title>Neptune 4 Pro 3D Printer!</title>
-      <link>http://localhost:1313/cool_stuff/neptune4pro/</link>
+      <link>https://devilsu.github.io/cool_stuff/neptune4pro/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/neptune4pro/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/neptune4pro/</guid>
       <description>Dream comes true! My first 3D printer!</description>
     </item>
     <item>
       <title>Poor man RC car built from leftover parts</title>
-      <link>http://localhost:1313/cool_stuff/mhack_2019/</link>
+      <link>https://devilsu.github.io/cool_stuff/mhack_2019/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/mhack_2019/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/mhack_2019/</guid>
       <description>MHacks 2019</description>
     </item>
   </channel>

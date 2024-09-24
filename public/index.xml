@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yang-Hsi Su</title>
-    <link>http://localhost:1313/</link>
+    <link>https://devilsu.github.io/</link>
     <description>Recent content on Yang-Hsi Su</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devilsu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-Sound Source Localization &amp; Classification</title>
-      <link>http://localhost:1313/research/isomic/</link>
+      <link>https://devilsu.github.io/research/isomic/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/isomic/</guid>
+      <guid>https://devilsu.github.io/research/isomic/</guid>
       <description>Revise and submit to somewhere&amp;hellip;</description>
     </item>
     <item>
       <title>OREO!</title>
-      <link>http://localhost:1313/cool_stuff/oreo/</link>
+      <link>https://devilsu.github.io/cool_stuff/oreo/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/oreo/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/oreo/</guid>
       <description>but its 3D printed</description>
     </item>
     <item>
       <title>Bulit a Tarmo5</title>
-      <link>http://localhost:1313/cool_stuff/tarmo5/</link>
+      <link>https://devilsu.github.io/cool_stuff/tarmo5/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/tarmo5/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/tarmo5/</guid>
       <description>3D Printed RC Car from EngineeringNS</description>
     </item>
     <item>
       <title>Curta Mechanical Calculator</title>
-      <link>http://localhost:1313/cool_stuff/curta/</link>
+      <link>https://devilsu.github.io/cool_stuff/curta/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/curta/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/curta/</guid>
       <description>Will build this one day</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://devilsu.github.io/cv/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://devilsu.github.io/cv/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;  &lt;head&gt;&#xA;    &lt;title&gt;Title&lt;/title&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xA;  &lt;/head&gt;&#xA;  &lt;body&gt;&#xA;    &lt;div id=&#34;app&#34;&gt;&#xA;      &lt;iframe&#xA;        src=&#34;https://drive.google.com/file/d/10ARhlMOyuxgYTp3iAZ4r_gIwwjMkeaPM/preview&#34;&#xA;        width=&#34;100%&#34;&#xA;        height=&#34;1200px&#34;&gt;&#xA;      &lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Not sure how to make this full width without have text that is looooong enough, will fix it in the future &amp;#x1f92f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bit Storage</title>
-      <link>http://localhost:1313/cool_stuff/ltt_bit_case/</link>
+      <link>https://devilsu.github.io/cool_stuff/ltt_bit_case/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/ltt_bit_case/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/ltt_bit_case/</guid>
       <description>Just a bit storage for my LTT screwdriver</description>
     </item>
     <item>
       <title>Single Packet, Single Channel, Switched Antenna Array for RF Localization</title>
-      <link>http://localhost:1313/research/bleaoa/</link>
+      <link>https://devilsu.github.io/research/bleaoa/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/bleaoa/</guid>
+      <guid>https://devilsu.github.io/research/bleaoa/</guid>
       <description>UBICOMP 2023, OCT@CANCUN</description>
     </item>
     <item>
       <title>Anker Car Mount Mod</title>
-      <link>http://localhost:1313/cool_stuff/anker_car_mount/</link>
+      <link>https://devilsu.github.io/cool_stuff/anker_car_mount/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/anker_car_mount/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/anker_car_mount/</guid>
       <description>Free magsafe charger!</description>
     </item>
     <item>
       <title>Neptune 4 Pro 3D Printer!</title>
-      <link>http://localhost:1313/cool_stuff/neptune4pro/</link>
+      <link>https://devilsu.github.io/cool_stuff/neptune4pro/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/neptune4pro/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/neptune4pro/</guid>
       <description>Dream comes true! My first 3D printer!</description>
     </item>
     <item>
       <title>TomoID: A Scalable Approach to Device Free Indoor Localization via RFID Tomography</title>
-      <link>http://localhost:1313/research/tomoid/</link>
+      <link>https://devilsu.github.io/research/tomoid/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/tomoid/</guid>
+      <guid>https://devilsu.github.io/research/tomoid/</guid>
       <description>INFOCOM 2023, MAY@NYC</description>
     </item>
     <item>
       <title>60 GHz SFCW Radar 3D Point Cloud Reconstruction</title>
-      <link>http://localhost:1313/research/60ghz_radar/</link>
+      <link>https://devilsu.github.io/research/60ghz_radar/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/60ghz_radar/</guid>
+      <guid>https://devilsu.github.io/research/60ghz_radar/</guid>
       <description>Fun backburner project 2, 20 Tx by 20 Rx!</description>
     </item>
     <item>
       <title>PoseID - Device-Free Pose Reconstruction with a wall of RFID tags</title>
-      <link>http://localhost:1313/research/poseid/</link>
+      <link>https://devilsu.github.io/research/poseid/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/poseid/</guid>
+      <guid>https://devilsu.github.io/research/poseid/</guid>
       <description>Fun backburner project, too busy working on other fun stuff</description>
     </item>
     <item>
       <title>Poor man RC car built from leftover parts</title>
-      <link>http://localhost:1313/cool_stuff/mhack_2019/</link>
+      <link>https://devilsu.github.io/cool_stuff/mhack_2019/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cool_stuff/mhack_2019/</guid>
+      <guid>https://devilsu.github.io/cool_stuff/mhack_2019/</guid>
       <description>MHacks 2019</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://devilsu.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://devilsu.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a fifth year (ah just passed my thesis proposal Aug, 2024) Ph.D. student at University of Michigan in Electrical and Computer Engineering, advised by Prof. &lt;a href=&#34;http://www.alansonsample.com/&#34;&gt;Alanson Sample&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am a member of the &lt;a href=&#34;https://theisclab.com&#34;&gt;Interactive Sensing and Computing Lab&lt;/a&gt; along with &lt;a href=&#34;https://yasha.xyz/&#34;&gt;Yasha Iravantchi&lt;/a&gt;, &lt;a href=&#34;https://www.tomkrolikowski.dev/&#34;&gt;Tom Krolikowski&lt;/a&gt;, &lt;a href=&#34;https://kunpeng.dev/&#34;&gt;Kunpeng Huang&lt;/a&gt;, &lt;a href=&#34;https://callmeron7.github.io/&#34;&gt;Cameron Haire&lt;/a&gt;, and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=zmCbWwsAAAAJ&#34;&gt;Yaxuan Li&lt;/a&gt;. &lt;br&gt;&#xA;(Shout out to former labmates &lt;a href=&#34;https://scholar.google.com/citations?user=QwvwxL0AAAAJ&amp;amp;hl=en&#34;&gt;Amani Alkayyali&lt;/a&gt; and &lt;a href=&#34;https://in.linkedin.com/in/sumukh-marathe/&#34;&gt;Sumukh Marathe&lt;/a&gt; as well!)&lt;/p&gt;&#xA;&lt;p&gt;My research mainly focuses on building &lt;strong&gt;sensor array&lt;/strong&gt; with &lt;strong&gt;real time signal processing/ML&lt;/strong&gt; for &lt;strong&gt;wireless sensing&lt;/strong&gt;.&lt;br&gt;&#xA;(maybe I am chasing real time demo too hard instead of trying to graduate, but real time demos are so cool!) &lt;br&gt;&#xA;Here is a list of what I am (or was) working on:&lt;/p&gt;</description>
     </item>
   </channel>
