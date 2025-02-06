@@ -9,7 +9,7 @@ caption: Image caption
 # authors:
 #   - Christian: author.jpeg
 
-draft: true
+publish: false
 ---
 
 {{< youtube id="Uy9hrU_1gcY" title="Multi-Sound Source Localization & Classification" autoplay="false" >}}
