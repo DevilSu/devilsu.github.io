@@ -6,15 +6,8 @@
     <description>Recent content on Yang-Hsi Su</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://devilsu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Multi-Sound Source Localization &amp; Classification</title>
-      <link>https://devilsu.github.io/research/isomic/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://devilsu.github.io/research/isomic/</guid>
-      <description>Revise and submit to somewhere&amp;hellip;</description>
-    </item>
     <item>
       <title>OREO!</title>
       <link>https://devilsu.github.io/cool_stuff/oreo/</link>
@@ -41,7 +34,7 @@
       <link>https://devilsu.github.io/cv/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://devilsu.github.io/cv/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;  &lt;head&gt;&#xA;    &lt;title&gt;Title&lt;/title&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xA;  &lt;/head&gt;&#xA;  &lt;body&gt;&#xA;    &lt;div id=&#34;app&#34;&gt;&#xA;      &lt;iframe&#xA;        src=&#34;https://drive.google.com/file/d/10ARhlMOyuxgYTp3iAZ4r_gIwwjMkeaPM/preview&#34;&#xA;        width=&#34;100%&#34;&#xA;        height=&#34;1200px&#34;&gt;&#xA;      &lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Not sure how to make this full width without have text that is looooong enough, will fix it in the future &amp;#x1f92f;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;  &lt;head&gt;&#xA;    &lt;title&gt;Title&lt;/title&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xA;  &lt;/head&gt;&#xA;  &lt;body&gt;&#xA;    &lt;div id=&#34;app&#34;&gt;&#xA;      &lt;iframe&#xA;        src=&#34;https://drive.google.com/file/d/10ARhlMOyuxgYTp3iAZ4r_gIwwjMkeaPM/preview&#34;&#xA;        width=&#34;100%&#34;&#xA;        height=&#34;1200px&#34;&gt;&#xA;      &lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;Not sure how to make this full width without have text that is looooong enough, will fix it in the future &amp;#x1f92f;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bit Storage</title>

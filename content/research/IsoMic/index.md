@@ -8,6 +8,8 @@ cardimage: 2024_IsoMic.png
 caption: Image caption
 # authors:
 #   - Christian: author.jpeg
+
+draft: true
 ---
 
 {{< youtube id="Uy9hrU_1gcY" title="Multi-Sound Source Localization & Classification" autoplay="false" >}}
